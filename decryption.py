@@ -1,15 +1,3 @@
-'''
-
-Created For Mini Projects Repository
-
-Problem: Design an decryption program.
-
-Implementation: The key and the encrypted text stored in the files are used to
-decode the message and print it on the screen,
-
-@author: Sambit
-
-'''
 
 #Imports
 from Crypto.Cipher import AES

@@ -1,19 +1,3 @@
-'''
-
-Created For Mini Projects Repository
-
-Problem: Design an encryption program.
-
-Implementation: Python's encryption model PyCrypto has been used here. The program
-generates an encryption key and encrypts the message which is given by the user.
-The encryption key and the message are stored in their respective files so that
-they can be retrieved by the decryption file. Same key has been used for encryption
-and decryption.
-
-@author: Sambit
-
-'''
-
 #Imports
 from Crypto.Cipher import AES
 import base64
